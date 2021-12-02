@@ -1,0 +1,26 @@
+﻿<h1>All Jobs:</h1>
+
+
+@using (Html.BeginForm())
+{
+    @Html.TextBox("domain")
+    <input type="submit" class="btn btn-dark" value="Search for a contat">
+}
+@if (Model == null)
+{
+    <p>No results found.</p>
+}
+else
+{
+@foreach (Job job in Model)
+{
+    <ul>
+        @* <li>Value: @job.Type</li> *@
+      <li>First Name: @job.FirstName</li>
+          @* <li>Last Name: @job.LastName</li> *@
+        
+    </ul>
+    <br>
+}
+}
+

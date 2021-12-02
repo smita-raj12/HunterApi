@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkiLADJI48Xb9o7wGGz1p8iZQBtGOEyig7zM0WYCWEVXIGVIkUiCxJadznRNpg0FPAAzgTpU1LXID5ylsTJpAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rao34\\Desktop\\c#Programs\\MvcHunterApiCall\\MvcHunterApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rao34\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rao34\\.nuget\\packages\\restsharp\\106.10.0\\restsharp.106.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
